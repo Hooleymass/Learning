@@ -27,20 +27,3 @@ This loop will repeat 10 times and print the numbers 1 through 10 to the console
 
 It's important to make sure that the condition eventually becomes `false`, or the loop will continue indefinitely, resulting in an infinite loop.
 
-
-
-<table>
-  <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
-  </tr>
-  <tr>
-    <td>Row 1, Column 1</td>
-    <td>Row 1, Column 2</td>
-  </tr>
-  <tr>
-    <td>Row 2, Column 1</td>
-    <td>Row 2, Column 2</td>
-  </tr>
-</table>
-
